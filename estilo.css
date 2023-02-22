@@ -1,0 +1,16 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#titulo-principal {
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #c0c0c0;
+}
+
+section {
+    background-color: #c0c0c0;
+}
